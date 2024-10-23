@@ -1,0 +1,2 @@
+# segformer
+segformerを使ったセグメンテーションとマスク作成
